@@ -1,1 +1,3 @@
-export function randomQuickSort() {}
+export function randomQuickSort(numbers: number[]): number[] {
+  return [];
+}

@@ -1,1 +1,3 @@
-export function quickSort() {}
+export function quickSort(numbers: number[]): number[] {
+  return [];
+}

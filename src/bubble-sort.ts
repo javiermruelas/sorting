@@ -1,1 +1,3 @@
-export function bubbleSort() {}
+export function bubbleSort(numbers: number[]): number[] {
+  return [];
+}

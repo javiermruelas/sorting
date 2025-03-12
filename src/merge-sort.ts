@@ -1,1 +1,6 @@
-export function mergeSort() {}
+export function mergeSort<T>(
+  array: T[],
+  compareFn: (a: T, b: T) => number = (a: any, b: any) => a - b
+): T[] {
+  return [];
+}
